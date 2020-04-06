@@ -1,0 +1,13 @@
+.add-item {
+    display: flex;
+    margin-top: 20px;
+}
+
+.add-form {
+    margin-right: 10px;
+    width: 83%;
+}
+
+.add-btn {
+    margin: 0;
+}

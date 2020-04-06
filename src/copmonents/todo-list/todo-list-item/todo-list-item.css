@@ -1,0 +1,25 @@
+.todo-list-item {
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+
+.done {
+    text-decoration: line-through;
+ }
+ 
+ .important {
+    color:steelblue;
+    font-weight: bold;
+ }
+
+button {
+    margin-right: 10px;
+}
+
+.unselectable {
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+  }
